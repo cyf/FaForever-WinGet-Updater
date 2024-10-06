@@ -1,0 +1,23 @@
+# Created with YamlCreate.ps1 v2.4.1 $debug=NVS1.CRLF.7-4-2.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: Insco.FaForever
+PackageVersion: ${version}
+PackageLocale: en-US
+Publisher: Insco LLC
+PublisherUrl: https://www.chenyifaer.com/faforever
+PublisherSupportUrl: https://github.com/cyf/faforever/discussions
+PrivacyUrl: https://www.chenyifaer.com/faforever/en/legal/privacy
+Author: kjxbyz
+PackageName: FaForever
+PackageUrl: https://www.chenyifaer.com/faforever
+License: MIT
+LicenseUrl: https://raw.githubusercontent.com/cyf/faforever/main/LICENSE
+Copyright: Copyright (c) 2023 kjxbyz
+ShortDescription: A third-party music player that replaces Synology DS Audio client.
+Description: A third-party music player that replaces Synology DS Audio client.
+Tags:
+  - faforever
+ReleaseNotesUrl: https://raw.githubusercontent.com/cyf/faforever/v${release}/CHANGELOG.md
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
